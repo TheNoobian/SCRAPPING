@@ -1,0 +1,4 @@
+pykka
+requests
+beautifulsoup4
+pandas
